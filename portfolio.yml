@@ -1,0 +1,3 @@
+---
+name: print-debug
+description: Small macro fo debug printing variables and expressions.
